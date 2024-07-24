@@ -1,0 +1,15 @@
+C:\Users\iman sadati\Desktop\123\secure_voting_system\bin\Debug\net8.0\secure_voting_system.exe
+C:\Users\iman sadati\Desktop\123\secure_voting_system\bin\Debug\net8.0\secure_voting_system.deps.json
+C:\Users\iman sadati\Desktop\123\secure_voting_system\bin\Debug\net8.0\secure_voting_system.runtimeconfig.json
+C:\Users\iman sadati\Desktop\123\secure_voting_system\bin\Debug\net8.0\secure_voting_system.dll
+C:\Users\iman sadati\Desktop\123\secure_voting_system\bin\Debug\net8.0\secure_voting_system.pdb
+C:\Users\iman sadati\Desktop\123\secure_voting_system\obj\Debug\net8.0\secure_voting_system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iman sadati\Desktop\123\secure_voting_system\obj\Debug\net8.0\secure_voting_system.AssemblyInfoInputs.cache
+C:\Users\iman sadati\Desktop\123\secure_voting_system\obj\Debug\net8.0\secure_voting_system.AssemblyInfo.cs
+C:\Users\iman sadati\Desktop\123\secure_voting_system\obj\Debug\net8.0\secure_voting_system.csproj.CoreCompileInputs.cache
+C:\Users\iman sadati\Desktop\123\secure_voting_system\obj\Debug\net8.0\secure_voting_system.sourcelink.json
+C:\Users\iman sadati\Desktop\123\secure_voting_system\obj\Debug\net8.0\secure_voting_system.dll
+C:\Users\iman sadati\Desktop\123\secure_voting_system\obj\Debug\net8.0\refint\secure_voting_system.dll
+C:\Users\iman sadati\Desktop\123\secure_voting_system\obj\Debug\net8.0\secure_voting_system.pdb
+C:\Users\iman sadati\Desktop\123\secure_voting_system\obj\Debug\net8.0\secure_voting_system.genruntimeconfig.cache
+C:\Users\iman sadati\Desktop\123\secure_voting_system\obj\Debug\net8.0\ref\secure_voting_system.dll
