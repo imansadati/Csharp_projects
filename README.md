@@ -1,5 +1,5 @@
 
-# C# Core Projects
+# C# intermediate Projects
 
 Welcome to my collection of C# projects! This repository showcases a variety of C# projects that demonstrate fundamental programming concepts and practical applications. Each project is designed to enhance understanding of core C# principles and provide hands-on experience with different aspects of the language and .NET framework.
 
@@ -14,7 +14,7 @@ Welcome to my collection of C# projects! This repository showcases a variety of 
      - Transaction history
    - **Technologies**: C#, .NET Core
 
-### 2. **Secure Online Voting System**
+### 2. **Secure Online Voting System (Console Version)**
    - **Description**: A secure console-based voting system that supports user registration, voting, and election management with a focus on basic encryption and security.
    - **Key Features**:
      - User authentication 
