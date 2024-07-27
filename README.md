@@ -29,4 +29,9 @@ Welcome to my collection of C# projects! This repository showcases a variety of 
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/imansadati/Csharp_projects.git
-
+2. **Build the Project**:
+   ```sh
+   dotnet build
+3. **Run the Project**:
+   ```sh
+   dotnet run
